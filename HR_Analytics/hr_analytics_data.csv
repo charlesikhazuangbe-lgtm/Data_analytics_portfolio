@@ -1,0 +1,8 @@
+employee_id,employee_name,department,job_title,salary,performance_score,promotion_status,hire_date
+1,"John Doe",IT,"System Analyst",85000,90,Promoted,2020-03-10
+2,"Mary Smith",HR,"HR Manager",70000,85,Pending,2019-07-15
+3,"David Lee",Finance,Accountant,65000,78,No,2021-01-20
+4,"Sarah Johnson",IT,"Database Admin",92000,95,Promoted,2018-11-05
+5,"Michael Brown",Sales,"Sales Executive",60000,80,Pending,2022-06-12
+6,"Grace Wilson",Finance,"Financial Analyst",72000,88,Promoted,2020-09-01
+7,"Daniel King",HR,Recruiter,55000,75,No,2021-04-18
